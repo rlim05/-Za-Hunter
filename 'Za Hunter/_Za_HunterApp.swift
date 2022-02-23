@@ -2,7 +2,7 @@
 //  _Za_HunterApp.swift
 //  'Za Hunter
 //
-//  Created by Student on 2/23/22.
+//  Created by Ryan Lim on 2/23/22.
 //
 
 import SwiftUI
