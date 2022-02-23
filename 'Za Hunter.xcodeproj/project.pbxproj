@@ -11,6 +11,7 @@
 		3F119A3C27C6A34100A5AC54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F119A3B27C6A34100A5AC54 /* ContentView.swift */; };
 		3F119A3E27C6A34700A5AC54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F119A3D27C6A34700A5AC54 /* Assets.xcassets */; };
 		3F119A4127C6A34700A5AC54 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F119A4027C6A34700A5AC54 /* Preview Assets.xcassets */; };
+		3F119A4927C6A65D00A5AC54 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F119A4827C6A65D00A5AC54 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F119A3D27C6A34700A5AC54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F119A4027C6A34700A5AC54 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F119A4227C6A34700A5AC54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F119A4827C6A65D00A5AC54 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F119A3927C6A34100A5AC54 /* _Za_HunterApp.swift */,
 				3F119A3B27C6A34100A5AC54 /* ContentView.swift */,
+				3F119A4827C6A65D00A5AC54 /* LocationManager.swift */,
 				3F119A3D27C6A34700A5AC54 /* Assets.xcassets */,
 				3F119A4227C6A34700A5AC54 /* Info.plist */,
 				3F119A3F27C6A34700A5AC54 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3F119A3C27C6A34100A5AC54 /* ContentView.swift in Sources */,
 				3F119A3A27C6A34100A5AC54 /* _Za_HunterApp.swift in Sources */,
+				3F119A4927C6A65D00A5AC54 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
